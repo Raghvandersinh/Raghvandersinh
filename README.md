@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Raghvandersinh
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning and Majored in Computer Science
 - 📫 How to reach me raghavndersolanki2@gmail.com
 
 <!---
