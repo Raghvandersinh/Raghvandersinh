@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raghvandersinh
-- 👀 Currently intrested in being a Backend Dev
+- 👀 Currently intrested in Machine Learning
 - 🌱 I’m currently learning and Majored in Computer Science
 - 📫 How to reach me raghvandersinhsolankibuisness@gmail.com
 
